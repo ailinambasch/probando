@@ -81,6 +81,7 @@ suma()
 
 //para subir mi codigo a github ( o cualquier repositorio)
 //Primero consultar el status: git status
-//Realizar una seleccion de los archivos a subir: git add ... / git add .(sube todos)
+//Realizar una seleccion de los archivos a subir: git add ... / git add .(sube todos, tener en cuenta el espacio)
 //Commitear ponerle una identificacion al codigo que estoy subiendo: git commit -m "blah blah"
-
+//Para consultar los commit: git log
+//Despliegue en la nube de mi codigo: git push origin "nombre de la rama" / git push origin main
